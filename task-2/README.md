@@ -14,3 +14,8 @@
 4. DO NOT use any UI framework like react or vue, use only vanilla javascript(or typescript), html,
 and css.
 The only required set up to start the server should be “npm install” and “npm start”
+---
+### Run
+```
+   npm install && npm start
+```

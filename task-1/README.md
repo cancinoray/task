@@ -8,3 +8,9 @@
 4. Then displays the book title, description, and the full name and middle initial of the authors.
    1. OR if the book could not be found indicate that the book could not be found
 5. Ask the user for input again and repeat indefinitely
+
+---
+### Run
+```
+   npm install
+```
